@@ -2,12 +2,12 @@
 Class Activity
 <br>
 # Activity 3 Practicing Markdown
-![Flowers](DSC_0003.jpg)
+![Flowers](images/DSC_0003.jpg)
 <br>
 ## Trying out different Markdown commands
 <br>
-### Table of Contents
-
+<h3> Table of Contents
+<br>
 [code](code) <br>
 [data](data) <br>
 [images](images) <br>
