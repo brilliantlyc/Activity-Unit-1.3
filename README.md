@@ -7,7 +7,7 @@ Class Activity
 ## Trying out different Markdown commands
 <br>
 <h3> Table of Contents
-<br>
+
 [code](code) <br>
 [data](data) <br>
 [images](images) <br>
